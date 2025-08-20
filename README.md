@@ -1,2 +1,2 @@
 # docs
-documentation and markdown-based notes
+Used for documentation and markdown-based notes
